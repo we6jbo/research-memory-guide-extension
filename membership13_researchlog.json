@@ -1,0 +1,1799 @@
+{
+  "schema": "research identity.researchlog.v1",
+  "exported_at_iso": "2026-06-11T00:29:17.642Z",
+  "exported_at_local": "6/10/2026, 5:29:17 PM",
+  "extension_version": "2.0.0",
+  "task_id": "research identity_condition_A_physical_san_diego_location",
+  "session_id": "public_seed_2026_06_11",
+  "location_label": "a local library or research location",
+  "compatibility_note": "Future extensions should read records[] where each record has schema research identity.researchlog.v1.",
+  "records": [
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:20:11.632Z",
+      "captured_at_local": "6/10/2026, 5:20:11 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "SDPL_GENEALOGY"
+      ],
+      "excerpt": "Skip to main content Enable accessibility for low vision Open the accessibility menu Skip to main content City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Genealogy Master Index Indexes biographical listings in print dictionaries and encyclopedias covering millions of individuals, both living and deceased. Obituary Search All requests for an obituary search must be submitted via email to: speccoll@sandiego.gov. (More details) Special Collections Special Collections Overview California Collection Rare Book Room Genealogy Collection Special Collections Spotlight Videos Regular Hours Monday: 11:30 AM - 8:00 PM Tuesday: 11:30 AM - 8:00 PM Wednesday: 9:30 AM - 6:00 PM Thursday: 9:30 AM - 6:00 PM Friday: 9:30 AM - 6:00 PM Saturday: 9:30 AM - 6:00 PM Sunday: Closed Copyrighted © 2002-2026 City of San Diego. All rights reserved. Footer Menu Council Districts Council President Joe LaCava (District 1) Councilmember Jennifer Campbell (District 2) Councilmember Stephen Whitburn (District 3) Councilmember Henry Foster III (District 4) Councilmember Marni von Wilpert (District 5) Council President Pro Tem Kent Lee (District 6) Councilmember Raul Campillo (District 7) Councilmember Vivian Moreno (District 8) Councilmember Sean Elo-Rivera (District 9) City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department Government Agencies County of San Diego State of California Federal Government Disclaimers Privacy Policy Accessibility Language Translation Contact the Cit",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Mobile main navigation",
+        "LeisureExplore | Play | Events",
+        "Parks",
+        "Outdoors",
+        "Resident ResourcesPay Now | Parking | Help",
+        "Neighborhoods",
+        "Recreational Activities",
+        "Street Maintenance",
+        "Doing BusinessFix | Plan | Build",
+        "Plan",
+        "Fix",
+        "Build",
+        "LibraryLearn | Connect | Discover",
+        "Programs & Events",
+        "Services",
+        "Kids & Teens",
+        "eCollection",
+        "Public SafetyPolice | Fire | Lifeguards",
+        "Police",
+        "Fire-Rescue",
+        "Lifeguards",
+        "City HallCity Officials | Departments",
+        "City Officials",
+        "City Government",
+        "Leisure"
+      ],
+      "links": [
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#main-content",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LeisureExplore | Play | Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Resident ResourcesPay Now | Parking | Help"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Doing BusinessFix | Plan | Build"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LibraryLearn | Connect | Discover"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events/onebook",
+          "text": "One Book, One San Diego"
+        },
+        {
+          "href": "https://sandiego.events.mylibrary.digital/",
+          "text": "Event Calendar"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events",
+          "text": "More Programs & Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/finesfees",
+          "text": "Fines & Fees"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/renewhold",
+          "text": "Renewals & Holds"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services",
+          "text": "More Services"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/hwcenter",
+          "text": "Homework Help Center"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/parentsteachers",
+          "text": "Parents & Teachers"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens",
+          "text": "More Kids & Teens"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/elibrary",
+          "text": "eBooks"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library",
+          "text": "Library Website"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/librarycard",
+          "text": "Apply for a Library Card"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Public SafetyPolice | Fire | Lifeguards"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "City HallCity Officials | Departments"
+        },
+        {
+          "href": "https://www.sandiego.gov/boards-and-commissions",
+          "text": "Boards & Commissions"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Translate"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition"
+      ],
+      "next_step_at_capture": "Good. Capture this SDPL page into the database. Then capture FamilySearch church/baptism evidence if time allows.",
+      "record_id": "m13_mq8r3w8e_xv6t8p7e",
+      "result_blocks": [
+        "Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Geneal",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research familie",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility",
+        "LibraryLearn | Connect | Discover Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website Browse the Catalog Apply for a Library Card Employment Opportunities",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events",
+        "City HallCity Officials | Departments City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall Council Meetings FY27 Draft Budget Council Committees The People's Business",
+        "City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall",
+        "City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart",
+        "Leisure With its great weather, miles of sandy beaches, and major attractions, San Diego is known worldwide as one of the best tourist destinations and a great place for residents to relax year round.",
+        "Library The San Diego Public Library is a popular destination that connects our diverse community to free educational and cultural resources that will enrich their lives.",
+        "City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.sandiego.gov",
+      "source_title": "Genealogy Collection | City of San Diego Official Website",
+      "source_type": "official_library_page",
+      "source_url": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": false,
+      "captured_at_iso": "2026-06-11T00:23:55.352Z",
+      "captured_at_local": "6/10/2026, 5:23:55 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "Could not establish connection. Receiving end does not exist.",
+      "evidence_flags": [],
+      "excerpt": "",
+      "extension_version": "1.4.0",
+      "headings": [],
+      "links": [],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [],
+      "next_step_at_capture": "The extension could not read this page. Use SDPL or FamilySearch pages, refresh, or use the popup buttons.",
+      "record_id": "m13_mq8r8ouw_lpdffocp",
+      "result_blocks": [],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "newtab",
+      "source_title": "New Tab",
+      "source_type": "webpage",
+      "source_url": "chrome://newtab/",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:24:06.360Z",
+      "captured_at_local": "6/10/2026, 5:24:06 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "SDPL_GENEALOGY"
+      ],
+      "excerpt": "Skip to main content Enable accessibility for low vision Open the accessibility menu Skip to main content City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Genealogy Master Index Indexes biographical listings in print dictionaries and encyclopedias covering millions of individuals, both living and deceased. Obituary Search All requests for an obituary search must be submitted via email to: speccoll@sandiego.gov. (More details) Special Collections Special Collections Overview California Collection Rare Book Room Genealogy Collection Special Collections Spotlight Videos Regular Hours Monday: 11:30 AM - 8:00 PM Tuesday: 11:30 AM - 8:00 PM Wednesday: 9:30 AM - 6:00 PM Thursday: 9:30 AM - 6:00 PM Friday: 9:30 AM - 6:00 PM Saturday: 9:30 AM - 6:00 PM Sunday: Closed Copyrighted © 2002-2026 City of San Diego. All rights reserved. Footer Menu Council Districts Council President Joe LaCava (District 1) Councilmember Jennifer Campbell (District 2) Councilmember Stephen Whitburn (District 3) Councilmember Henry Foster III (District 4) Councilmember Marni von Wilpert (District 5) Council President Pro Tem Kent Lee (District 6) Councilmember Raul Campillo (District 7) Councilmember Vivian Moreno (District 8) Councilmember Sean Elo-Rivera (District 9) City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department Government Agencies County of San Diego State of California Federal Government Disclaimers Privacy Policy Accessibility Language Translation Contact the Cit",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Mobile main navigation",
+        "LeisureExplore | Play | Events",
+        "Parks",
+        "Outdoors",
+        "Resident ResourcesPay Now | Parking | Help",
+        "Neighborhoods",
+        "Recreational Activities",
+        "Street Maintenance",
+        "Doing BusinessFix | Plan | Build",
+        "Plan",
+        "Fix",
+        "Build",
+        "LibraryLearn | Connect | Discover",
+        "Programs & Events",
+        "Services",
+        "Kids & Teens",
+        "eCollection",
+        "Public SafetyPolice | Fire | Lifeguards",
+        "Police",
+        "Fire-Rescue",
+        "Lifeguards",
+        "City HallCity Officials | Departments",
+        "City Officials",
+        "City Government",
+        "Leisure"
+      ],
+      "links": [
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#main-content",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LeisureExplore | Play | Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Resident ResourcesPay Now | Parking | Help"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Doing BusinessFix | Plan | Build"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LibraryLearn | Connect | Discover"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events/onebook",
+          "text": "One Book, One San Diego"
+        },
+        {
+          "href": "https://sandiego.events.mylibrary.digital/",
+          "text": "Event Calendar"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events",
+          "text": "More Programs & Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/finesfees",
+          "text": "Fines & Fees"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/renewhold",
+          "text": "Renewals & Holds"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services",
+          "text": "More Services"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/hwcenter",
+          "text": "Homework Help Center"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/parentsteachers",
+          "text": "Parents & Teachers"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens",
+          "text": "More Kids & Teens"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/elibrary",
+          "text": "eBooks"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library",
+          "text": "Library Website"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/librarycard",
+          "text": "Apply for a Library Card"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Public SafetyPolice | Fire | Lifeguards"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "City HallCity Officials | Departments"
+        },
+        {
+          "href": "https://www.sandiego.gov/boards-and-commissions",
+          "text": "Boards & Commissions"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Translate"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition"
+      ],
+      "next_step_at_capture": "Good. Capture this SDPL page into the database. Then capture FamilySearch church/baptism evidence if time allows.",
+      "record_id": "m13_mq8r8xcm_okai10xx",
+      "result_blocks": [
+        "Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Geneal",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research familie",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility",
+        "LibraryLearn | Connect | Discover Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website Browse the Catalog Apply for a Library Card Employment Opportunities",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events",
+        "City HallCity Officials | Departments City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall Council Meetings FY27 Draft Budget Council Committees The People's Business",
+        "City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall",
+        "City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart",
+        "Leisure With its great weather, miles of sandy beaches, and major attractions, San Diego is known worldwide as one of the best tourist destinations and a great place for residents to relax year round.",
+        "Library The San Diego Public Library is a popular destination that connects our diverse community to free educational and cultural resources that will enrich their lives.",
+        "City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.sandiego.gov",
+      "source_title": "Genealogy Collection | City of San Diego Official Website",
+      "source_type": "official_library_page",
+      "source_url": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:25:21.018Z",
+      "captured_at_local": "6/10/2026, 5:25:21 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "ANCESTRY_LIBRARY_ACCESS"
+      ],
+      "excerpt": "Skip Ancestry main menu HomeSearchMessage BoardsCharts and FormsLearning CenterNew Collections SAN DIEGO PUBLIC LIBRARY Ancestry Library Edition Homepage Start searching billions of records and discover your family's story. First & Middle Name(s) Last Name(s) Place lived Birth Year Estimate Show more options Search Clear Get expert tips on how to search billions of records and filter your results to find what you need. Get help Explore our collections SEARCH CENSUS Find ancestors in the complete set of U.S. Federal Census images from 1790-1950, including name indexes. Search Now SEARCH VITALS When did those significant life changing events happen in your ancestors life? Search our Vital Records to find out. Search Now SEARCH MILITARY Did your ancestors serve in the Military? Our collection of military records holds the answers. Search Now SEARCH IMMIGRATION When did your ancestors arrive in the U.S.? And how did they get here? Search our passenger lists and other immigration records to learn more. Search Now CITY DIRECTORIES Where did your ancestors live and what did they do there? These records are helpful in placing your ancestor in a specific location in a particular year. Search Now See More Family history search. Simplified. StoryScout® can bring the fascinating details of your ancestors’ lives directly to you, and put you on a path to start making your own family discoveries. items marked with * are required To find your family’s stories, start with a grandparent. Grandfather Grandmother First Name Last Name Place your ancestor might have lived Find your stories Quick Links Public Member Trees Birth, Marriage & Death Records Military Tax, Criminal, Land & Wills Stories, Memories & Histories Pictures Message Boards City Directories Immigration & Travel Schools, Directories & Church Histories Reference, Dictionaries & Almanacs Newspaper Obits Maps, Atlases & Gazetteers Recently Added/Updated Collections Distributed By Powered By © 1997-2026 Ancestry Privacy Terms and Conditions CCPA Notice at Collection United States - English Notifications",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Messages",
+        "Ancestry Library Edition Homepage",
+        "Start searching billions of records and discover your family's story.",
+        "Add Details",
+        "SEARCH CENSUS",
+        "SEARCH VITALS",
+        "SEARCH MILITARY",
+        "SEARCH IMMIGRATION",
+        "CITY DIRECTORIES",
+        "Family history search. Simplified.",
+        "Quick Links",
+        "Notifications"
+      ],
+      "links": [
+        {
+          "href": "https://www.ancestrylibrary.com/?userid=7362&parentid=7362&expires=2026%2f06%2f11+01%3a25%3a18&libname=SAN+DIEGO+PUBLIC+LIBRARY&hash=kX%2ftkagy8WtOT9K8Yn5KPQ%3d%3d#skipped-nav",
+          "text": "Skip Ancestry main menu"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?searchOrigin=navigation_header",
+          "text": "Search"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/family-tree/tree/",
+          "text": ""
+        },
+        {
+          "href": "https://ancestry.az1.qualtrics.com/jfe/form/SV_8AknyRSVGh9rnNQ",
+          "text": "Give feedback"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "Go to message center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://support.ancestry.com/s/article/Searching-on-Ancestry-at-a-Library-or-School",
+          "text": "Get help"
+        },
+        {
+          "href": "https://search.ancestrylibrary.com/search/group/usfedcen",
+          "text": "Search Now"
+        },
+        {
+          "href": "https://search.ancestrylibrary.com/search/category.aspx?cat=34",
+          "text": "Search Now"
+        },
+        {
+          "href": "https://search.ancestrylibrary.com/search/category.aspx?cat=39",
+          "text": "Search Now"
+        },
+        {
+          "href": "https://search.ancestrylibrary.com/search/category.aspx?cat=40",
+          "text": "Search Now"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/categories/dir_city/",
+          "text": "Search Now"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog/",
+          "text": "See More"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition"
+      ],
+      "next_step_at_capture": "Capture as Ancestry Library access evidence. You do not need personal search results.",
+      "record_id": "m13_mq8raiya_6aju7s0z",
+      "result_blocks": [
+        "Ancestry Library Edition Homepage Start searching billions of records and discover your family's story. First & Middle Name(s) Last Name(s) Place lived Birth Year Estimate Show more options Search Clear Get expert tips on how to search billions of records and filter your results to find what you need. Get help Explore our collections SEARCH CENSUS Find ancestors in the complete set of U.S. Federal Census images from 1790-1950, including name indexes. Search Now SEARCH VITALS When did those significant life changing events happen in your ancestors life? Search our Vital Records to find out. Sea"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.ancestrylibrary.com",
+      "source_title": "AncestryLibrary®",
+      "source_type": "webpage",
+      "source_url": "https://www.ancestrylibrary.com/?userid=7362&parentid=7362&expires=2026%2f06%2f11+01%3a25%3a18&libname=SAN+DIEGO+PUBLIC+LIBRARY&hash=kX%2ftkagy8WtOT9K8Yn5KPQ%3d%3d",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:25:54.509Z",
+      "captured_at_local": "6/10/2026, 5:25:54 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "ANCESTRY_LIBRARY_ACCESS"
+      ],
+      "excerpt": "Skip Ancestry main menu HomeSearchMessage BoardsCharts and FormsLearning CenterNew Collections SAN DIEGO PUBLIC LIBRARY Jeremiah O'Neal Birth year:1981 Lived in:San Diego, San Diego, California, USA Details:2 events PeopleRecordsPhotos Switch to Classic Search Filters Clear all Record Type Birth, Marriage & Death (1) Birth Death Marriage Residence Results (1) for Jeremiah O'Neal, Birth: 1981, Any Event: San Diego San Diego California USA Indiana, U.S., Marriage Certificates, 1960-2012 Marriage & Divorce Name Jeremiah Eugene O'Neal Birth abt 1982 California Marriage 29 Dec 2001 Greencastle, Putnam, Indiana, USA RECOMMENDED View records Results (1 - 1) of 1 10 20 50 per page of 1 Distributed By Powered By © 1997-2026 Ancestry Privacy Terms and Conditions CCPA Notice at Collection United States - English Notifications",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Messages",
+        "Filters",
+        "Record Type",
+        "Birth",
+        "Death",
+        "Marriage",
+        "Residence",
+        "Notifications"
+      ],
+      "links": [
+        {
+          "href": "https://www.ancestrylibrary.com/search/?name=Jeremiah_O%27Neal&event=_San+Diego-San+Diego-California-USA_69169&birth=1981&birth_x=3&count=50&name_x=1_1&searchMode=simple&types=r#skipped-nav",
+          "text": "Skip Ancestry main menu"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?searchOrigin=navigation_header",
+          "text": "Search"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/family-tree/tree/",
+          "text": ""
+        },
+        {
+          "href": "https://ancestry.az1.qualtrics.com/jfe/form/SV_8AknyRSVGh9rnNQ",
+          "text": "Give feedback"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "Go to message center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/61009/records/1742928?tid=&pid=&queryId=8ea0b111-9da3-492a-976d-b7ef40594e78&usePUBJs=true",
+          "text": "Indiana, U.S., Marriage Certificates, 1960-2012"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/61009/records/1742928?tid=&pid=&queryId=8ea0b111-9da3-492a-976d-b7ef40594e78&usePUBJs=true",
+          "text": "View records"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?name=Jeremiah_O%27Neal&event=_San+Diego-San+Diego-California-USA_69169&birth=1981&birth_x=3&count=50&name_x=1_1&searchMode=simple&types=r#",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?name=Jeremiah_O%27Neal&event=_San+Diego-San+Diego-California-USA_69169&birth=1981&birth_x=3&count=50&name_x=1_1&searchMode=simple&types=r#",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?name=Jeremiah_O%27Neal&event=_San+Diego-San+Diego-California-USA_69169&birth=1981&birth_x=3&count=50&name_x=1_1&searchMode=simple&types=r",
+          "text": "Powered By"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/cs/legal/privacystatement",
+          "text": "Privacy"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/cs/legal/termsandconditions",
+          "text": "Terms and Conditions"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition"
+      ],
+      "next_step_at_capture": "Capture as Ancestry Library access evidence. You do not need personal search results.",
+      "record_id": "m13_mq8rb8st_3wdewj7u",
+      "result_blocks": [
+        "Jeremiah O'Neal Birth year:1981 Lived in:San Diego, San Diego, California, USA Details:2 events PeopleRecordsPhotos Switch to Classic Search",
+        "Results (1) for Jeremiah O'Neal, Birth: 1981, Any Event: San Diego San Diego California USA Indiana, U.S., Marriage Certificates, 1960-2012 Marriage & Divorce Name Jeremiah Eugene O'Neal Birth abt 1982 California Marriage 29 Dec 2001 Greencastle, Putnam, Indiana, USA RECOMMENDED View records Results (1 - 1) of 1 10 20 50 per page of 1",
+        "Jeremiah O'Neal Birth year:1981 Lived in:San Diego, San Diego, California, USA Details:2 events",
+        "Filters Clear all Record Type Birth, Marriage & Death (1) Birth Death Marriage Residence Results (1) for Jeremiah O'Neal, Birth: 1981, Any Event: San Diego San Diego California USA Indiana, U.S., Marriage Certificates, 1960-2012 Marriage & Divorce Name Jeremiah Eugene O'Neal Birth abt 1982 California Marriage 29 Dec 2001 Greencastle, Putnam, Indiana, USA RECOMMENDED View records Results (1 - 1) of 1 10 20 50 per page of 1",
+        "Results (1) for Jeremiah O'Neal, Birth: 1981, Any Event: San Diego San Diego California USA"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.ancestrylibrary.com",
+      "source_title": "Jeremiah O'Neal - Ancestry.com",
+      "source_type": "webpage",
+      "source_url": "https://www.ancestrylibrary.com/search/?name=Jeremiah_O%27Neal&event=_San+Diego-San+Diego-California-USA_69169&birth=1981&birth_x=3&count=50&name_x=1_1&searchMode=simple&types=r",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:26:41.740Z",
+      "captured_at_local": "6/10/2026, 5:26:41 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "ANCESTRY_LIBRARY_ACCESS"
+      ],
+      "excerpt": "Skip Ancestry main menu HomeSearchMessage BoardsCharts and FormsLearning CenterNew Collections SAN DIEGO PUBLIC LIBRARY All results for Natalie O'Neal 1-20 of 13,919 Browse by collection To get better results, add more information such as Death Info—even a guess will help. Edit your search or learn more U.S., Index to Public Records, 1994-2019 Preview City & area directories Record information. Name Natalie A Oneal [Natalie A O Neal] Birth Dec 1960 Residence 2018-2020 San Diego, California, USA U.S., Public Records Index, 1950-1993, Volume 2 Preview City & area directories Record information. Name Natalie O'Neal Residence San Diego, California, USA U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Neal Birth abt 1960 Residence 1976 Huntington Beach, California, USA Picture Natalie Neal U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Neal Birth abt 1960 Residence 1975 Huntington Beach, California, USA Picture Natalie Neal U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Neal Birth abt 1960 Residence 1975 Cupertino, California, USA Picture Natalie Neal Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1924 Preview Birth, baptism & christening Record information. Name Natalie Lorraine O'Neal Birth 14 Dec 1961 Prince William, Virginia, USA U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Oneal Birth abt 1961 Residence 1978 San Clemente, California, USA Picture Natalie Oneal U.S., Public Records Index, 1950-1993, Volume 2 Preview City & area directories Record information. Name Natalie C NC Neal Birth 28 Apr 1961 Residence Vallejo, California, USA U.S., Index to Public Records, 1994-2019 Preview City & area directories Record information. Name Natalie C McNeal [Natale McNeal] [Natalie C Dterling] [Natalie C Mc Neal] Birth Apr 1961 Residence 1997-2020 Antelope, California, USA U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Neal Birth abt 1961 Residence 1977 Huntington Beach, California, USA Picture Natalie Neal California, U.S., Divorce Index, 1966-1984 Preview Marriage & divorce View Record information. Name Natalie Oneal Spouse Dudley Divorce 10 Jun 1983 San Diego U.S., Public Records Index, 1950-1993, Volume 2 Preview City & area directories Record information. Name Natalie Neal Birth 16",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Messages",
+        "All results for Natalie O'Neal",
+        "Keyboard shortcuts",
+        "Filters",
+        "Notifications"
+      ],
+      "links": [
+        {
+          "href": "https://www.ancestrylibrary.com/search/?name=Natalie_O%27Neal&event=_California&birth=1960&searchMode=advanced#skipped-nav",
+          "text": "Skip Ancestry main menu"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/?searchOrigin=navigation_header",
+          "text": "Search"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/boards/",
+          "text": "Message Boards"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/download/charts",
+          "text": "Charts and Forms"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/LearningCenter/",
+          "text": "Learning Center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/catalog?searchOrigin=navigation_header",
+          "text": "New Collections"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/family-tree/tree/",
+          "text": ""
+        },
+        {
+          "href": "https://ancestry.az1.qualtrics.com/jfe/form/SV_8AknyRSVGh9rnNQ",
+          "text": "Give feedback"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "Go to message center"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/connect/messagecenter/folder/inbox",
+          "text": "See all messages"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search",
+          "text": "New Search"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/support/s/article/Refining-Your-Search-to-Improve-Results",
+          "text": "learn more"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/62209/records/53349136?tid=&pid=&queryId=1f2ece62-b6ea-436a-b52f-94ae36646658&_phsrc=XuH3&_phstart=successSource",
+          "text": "U.S., Index to Public Records, 1994-2019"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/1732/records/174919899?tid=&pid=&queryId=1f2ece62-b6ea-436a-b52f-94ae36646658&_phsrc=XuH3&_phstart=successSource",
+          "text": "U.S., Public Records Index, 1950-1993, Volume 2"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/1265/records/635913321?tid=&pid=&queryId=1f2ece62-b6ea-436a-b52f-94ae36646658&_phsrc=XuH3&_phstart=successSource",
+          "text": "U.S., School Yearbooks, 1900-2016"
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/imageviewer/collections/1265/images/sid_4143_1976_0272?pid=635913321&treeid=&personid=&rc=&queryId=1f2ece62-b6ea-436a-b52f-94ae36646658&usePUB=true&_phsrc=XuH3&_phstart=successSource",
+          "text": ""
+        },
+        {
+          "href": "https://www.ancestrylibrary.com/search/collections/1265/records/636785874?tid=&pid=&queryId=1f2ece62-b6ea-436a-b52f-94ae36646658&_phsrc=XuH3&_phstart=successSource",
+          "text": "U.S., School Yearbooks, 1900-2016"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition",
+        "church/baptism records"
+      ],
+      "next_step_at_capture": "Capture as Ancestry Library access evidence. You do not need personal search results.",
+      "record_id": "m13_mq8rc98s_v058iyby",
+      "result_blocks": [
+        "To get better results, add more information such as Death Info—even a guess will help. Edit your search or learn more U.S., Index to Public Records, 1994-2019 Preview City & area directories Record information. Name Natalie A Oneal [Natalie A O Neal] Birth Dec 1960 Residence 2018-2020 San Diego, California, USA U.S., Public Records Index, 1950-1993, Volume 2 Preview City & area directories Record information. Name Natalie O'Neal Residence San Diego, California, USA U.S., School Yearbooks, 1900-2016 Preview School lists & yearbooks Record information. Name Natalie Neal Birth abt 1960 Residence ",
+        "U.S., Index to Public Records, 1994-2019 Preview City & area directories Record information. Name Natalie A Oneal [Natalie A O Neal] Birth Dec 1960 Residence 2018-2020 San Diego, California, USA",
+        "U.S., Public Records Index, 1950-1993, Volume 2 Preview City & area directories Record information. Name Natalie O'Neal Residence San Diego, California, USA",
+        "Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1924 Preview Birth, baptism & christening Record information. Name Natalie Lorraine O'Neal Birth 14 Dec 1961 Prince William, Virginia, USA",
+        "California, U.S., Divorce Index, 1966-1984 Preview Marriage & divorce View Record information. Name Natalie Oneal Spouse Dudley Divorce 10 Jun 1983 San Diego",
+        "Natalie A Oneal[Natalie A O Neal]BirthDec 1960Residence2018-2020San Diego, California, USAU.S., Index to Public Records, 1994-2019City & Area Directories",
+        "Natalie O'NealResidenceSan Diego, California, USAU.S., Public Records Index, 1950-1993, Volume 2City & Area Directories",
+        "Natalie Lorraine O'NealBirth14 Dec 1961Prince William, Virginia, USAVirginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1924Birth, Baptism & Christening",
+        "Natalie OnealSpouseDudleyDivorce10 Jun 1983San DiegoCalifornia, U.S., Divorce Index, 1966-1984Marriage & Divorce",
+        "Record information. Name Natalie A Oneal [Natalie A O Neal] Birth Dec 1960 Residence 2018-2020 San Diego, California, USA",
+        "Record information. Name Natalie O'Neal Residence San Diego, California, USA",
+        "Virginia, U.S., Birth Records, 1912-2015, Delayed Birth Records, 1721-1924 Preview Birth, baptism & christening"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.ancestrylibrary.com",
+      "source_title": "Natalie O'Neal - Ancestry.com",
+      "source_type": "webpage",
+      "source_url": "https://www.ancestrylibrary.com/search/?name=Natalie_O%27Neal&event=_California&birth=1960&searchMode=advanced",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:27:03.567Z",
+      "captured_at_local": "6/10/2026, 5:27:03 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "FAMILYSEARCH_CHURCH_BAPTISM",
+        "SAN_DIEGO_GENEALOGICAL_SOCIETY"
+      ],
+      "excerpt": "SKIP TO MAIN CONTENT Family Tree Search Memories Get Involved Activities Jeremiah7741 Records Full Text Images Family Tree Genealogies Catalog Books Wiki Catalog Search Results (16) TIPS AND RESOURCES PRINT CATALOG PRINT LIST (0) SEARCH Subject Search Terms Church records (16) Subject Search Terms Add to print list Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Davidson, Winifred, Guern, Ann MORE ADD Church records, 1876-1920 Author: Reorganized Church of Jesus Christ of Latter Day Saints. San Diego Branch (San Diego, California) MORE ADD Extracts of church records, 1775-1888 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Temple, Thomas Workman, d. 1972 MORE ADD The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer Author: First Presbyterian Church (San Diego, California), Rodefer, Virginia D., 1920-, San Diego Genealogical Society (El Cajon, California) MORE ADD Mission San Diego de Alcala California bautismos 1822-1855 Author: Temple, Thomas Workman, d. 1972 ADD Parish records (San Diego, Calif.), 1771-1904 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California) ADD Parish records (San Diego, Calif.), 1856-1970 Author: Catholic Church. St. Joseph (San Diego, California) ADD Record of members, 1919-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. Logan Heights Branch (California) MORE ADD Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. East San Diego Branch (California) MORE ADD Record of members, 1936-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD Record of members, 1936-1941; annual genealogical report, Form E, 1941- 1948 Author: Church of Jesus Christ of Latter-day Saints. North Park Branch (California) ADD Registro misional, 1776-1880 Author: Catholic Church. San Diego de Alcala Mission (San Diego,California) ADD San Diego Episcopal Church records/ researched and typed by members of San Diego Genealogical Society Author: Episcopal Church (San Diego, California), San Diego Genealogical Society (El Cajon, California) MORE ADD San Diego Episcopal Church records/ San Diego",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Catalog Search Results (16)",
+        "Search",
+        "Search By",
+        "Search For",
+        "Availability"
+      ],
+      "links": [
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/results?count=20&q.place=United%20States%2C%20California%2C%20San%20Diego%2C%20San%20Diego&q.subject=Church%20records&subjectsOpen=133492089-16#main",
+          "text": "SKIP TO MAIN CONTENT"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/",
+          "text": ""
+        },
+        {
+          "href": "https://www.familysearch.org/en/family-tree/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/pedigree/",
+          "text": "Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/recents/",
+          "text": "Recents"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=tree",
+          "text": "Find"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/following/",
+          "text": "Following"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/contributions/",
+          "text": "My Contributions"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/private-people/",
+          "text": "Person List"
+        },
+        {
+          "href": "https://www.familysearch.org/en/groups/trees/",
+          "text": "Manage Trees"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/",
+          "text": "Records"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/full-text/",
+          "text": "Full Text"
+        },
+        {
+          "href": "https://www.familysearch.org/en/records/images/",
+          "text": "Images"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=search/",
+          "text": "Family Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/genealogies/",
+          "text": "Genealogies"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/",
+          "text": "Catalog"
+        },
+        {
+          "href": "https://www.familysearch.org/en/library/books/",
+          "text": "Books"
+        },
+        {
+          "href": "https://www.familysearch.org/en/wiki/Main_Page",
+          "text": "Research Wiki"
+        },
+        {
+          "href": "https://www.familysearch.org/en/cemeteries",
+          "text": "Cemeteries"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/newspapers",
+          "text": "Newspapers"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/feed/",
+          "text": "Family Feed"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/my-opportunities/",
+          "text": "Opportunities"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "FamilySearch",
+        "church/baptism records",
+        "local religious history"
+      ],
+      "next_step_at_capture": "Good. Capture this page into the database. Then export/back up.",
+      "record_id": "m13_mq8rcq33_m4q0txy4",
+      "result_blocks": [
+        "Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Davidson, Winifred, Guern, Ann MORE ADD",
+        "Church records, 1876-1920 Author: Reorganized Church of Jesus Christ of Latter Day Saints. San Diego Branch (San Diego, California) MORE ADD",
+        "Extracts of church records, 1775-1888 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Temple, Thomas Workman, d. 1972 MORE ADD",
+        "The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer Author: First Presbyterian Church (San Diego, California), Rodefer, Virginia D., 1920-, San Diego Genealogical Society (El Cajon, California) MORE ADD",
+        "The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer",
+        "Mission San Diego de Alcala California bautismos 1822-1855 Author: Temple, Thomas Workman, d. 1972 ADD",
+        "Mission San Diego de Alcala California bautismos 1822-1855",
+        "Parish records (San Diego, Calif.), 1771-1904 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California) ADD",
+        "Parish records (San Diego, Calif.), 1856-1970 Author: Catholic Church. St. Joseph (San Diego, California) ADD",
+        "Record of members, 1919-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD",
+        "Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. East San Diego Branch (California) MORE ADD",
+        "Record of members, 1936-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.familysearch.org",
+      "source_title": "Catalog Search Results for United States, California, San Diego, San Diego, Church records, 133492089-16",
+      "source_type": "genealogy_catalog",
+      "source_url": "https://www.familysearch.org/en/search/catalog/results?count=20&q.place=United%20States%2C%20California%2C%20San%20Diego%2C%20San%20Diego&q.subject=Church%20records&subjectsOpen=133492089-16",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:27:33.697Z",
+      "captured_at_local": "6/10/2026, 5:27:33 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "FAMILYSEARCH_CHURCH_BAPTISM"
+      ],
+      "excerpt": "SKIP TO MAIN CONTENT Family Tree Search Memories Get Involved Activities Jeremiah7741 Records Full Text Images Family Tree Genealogies Catalog Books Wiki TIPS AND RESOURCES PRINT CATALOG PRINT LIST (0) Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern ADD TO PRINT LIST Authors Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author) Format Microfilm 35mm Language English Publication Date 1973 Publisher University of California Library Photographic Service Place of Publication San Diego, California Physical 1 microfilm reel ; 35 mm. Notes Microfilm of original records at the San Diego Historical Society, San Diego, California. Baptisms of Misión de San Diego de Alcalá 1769-1822. View this catalog record in WorldCat for other possible copy locations. Subjects Locality Subjects United States, California, San Diego, San Diego - Church records Library of Congress Subjects Indians of North America - California Missions - California Film/Digital Notes Film Number or Image Group Number (DGS) Column headers with buttons are sortable. Note Location Collection/Shelf Film Image Group Number (DGS) Format Book of baptisms, San Diego Mission Granite Mountain Record Vault United States & Canada Film 944001 8266106 Another filming. Granite Mountain Record Vault United States & Canada Film 830163 8519900 Results per page: 10 20 50 100 Page of 1 About this record This screen shows the catalog entry of the title you selected. The Copies section contains information for finding the physical item. Check the Call Number, Location, and Availability to know if a physical copy can be accessed. Many books, periodicals, and maps are available on the Digital Library and can be accessed viathe included link. Works that are copyright protected are not available for online viewing. The Film/Digital Notes contain a description of the microfilm or microfiche numbers. Some FamilySearch centers and affiliate libraries maintain collections of previously loaned microfilms or microfiche. A camera icon indicates items that are digitally accessible online. All microfilms have been digitized and microfiche is currently being digitized. Reasons why images from microfilms or microfiche may not yet be available digitally on FamilySearch.org include: The microfiche may be scheduled for future scanning. ",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern",
+        "Authors",
+        "Format",
+        "Language",
+        "Publication Date",
+        "Publisher",
+        "Place of Publication",
+        "Physical",
+        "Notes",
+        "Subjects",
+        "Locality Subjects",
+        "Library of Congress Subjects",
+        "Film/Digital Notes",
+        "About this record"
+      ],
+      "links": [
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/312935#main",
+          "text": "SKIP TO MAIN CONTENT"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/",
+          "text": ""
+        },
+        {
+          "href": "https://www.familysearch.org/en/family-tree/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/pedigree/",
+          "text": "Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/recents/",
+          "text": "Recents"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=tree",
+          "text": "Find"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/following/",
+          "text": "Following"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/contributions/",
+          "text": "My Contributions"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/private-people/",
+          "text": "Person List"
+        },
+        {
+          "href": "https://www.familysearch.org/en/groups/trees/",
+          "text": "Manage Trees"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/",
+          "text": "Records"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/full-text/",
+          "text": "Full Text"
+        },
+        {
+          "href": "https://www.familysearch.org/en/records/images/",
+          "text": "Images"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=search/",
+          "text": "Family Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/genealogies/",
+          "text": "Genealogies"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/",
+          "text": "Catalog"
+        },
+        {
+          "href": "https://www.familysearch.org/en/library/books/",
+          "text": "Books"
+        },
+        {
+          "href": "https://www.familysearch.org/en/wiki/Main_Page",
+          "text": "Research Wiki"
+        },
+        {
+          "href": "https://www.familysearch.org/en/cemeteries",
+          "text": "Cemeteries"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/newspapers",
+          "text": "Newspapers"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/feed/",
+          "text": "Family Feed"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/my-opportunities/",
+          "text": "Opportunities"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "FamilySearch",
+        "church/baptism records",
+        "local religious history"
+      ],
+      "next_step_at_capture": "Good. Capture this page into the database. Then export/back up.",
+      "record_id": "m13_mq8rddc1_wvc07iux",
+      "result_blocks": [
+        "The microfilm or microfiche may have been scanned, but have a contractual, data privacy, or other restriction preventing access. FamilySearch makes every effort to enable access dependent on decisions of record custodians and applicable laws.",
+        "You may need to be in a FamilySearch Center or the FamilySearch Library to access digital images from microfilms and microfiche. Some may also require that you log in to your FamilySearch account.",
+        "Records Full Text Images Family Tree Genealogies Catalog Books Wiki TIPS AND RESOURCES PRINT CATALOG PRINT LIST (0) Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern ADD TO PRINT LIST Authors Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author) Format Microfilm 35mm Language English Publication Date 1973 Publisher University of California Library Photographic Service Place of Publication San",
+        "TIPS AND RESOURCES PRINT CATALOG PRINT LIST (0) Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern ADD TO PRINT LIST Authors Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author) Format Microfilm 35mm Language English Publication Date 1973 Publisher University of California Library Photographic Service Place of Publication San Diego, California Physical 1 microfilm reel ; 35 mm. Notes Microfil",
+        "Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern ADD TO PRINT LIST Authors Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author) Format Microfilm 35mm Language English Publication Date 1973 Publisher University of California Library Photographic Service Place of Publication San Diego, California Physical 1 microfilm reel ; 35 mm.",
+        "Authors Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author) Format Microfilm 35mm Language English Publication Date 1973 Publisher University of California Library Photographic Service Place of Publication San Diego, California Physical 1 microfilm reel ; 35 mm.",
+        "Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author) Davidson, Winifred (Added Author) Guern, Ann (Added Author)",
+        "Catholic Church. Mission San Diego de Alcalá (San Diego, California) (Author)",
+        "United States, California, San Diego, San Diego - Church records",
+        "Indians of North America - California Missions - California",
+        "Column headers with buttons are sortable. Note Location Collection/Shelf Film Image Group Number (DGS) Format Book of baptisms, San Diego Mission Granite Mountain Record Vault United States & Canada Film 944001 8266106 Another filming. Granite Mountain Record Vault United States & Canada Film 830163 8519900",
+        "About this record This screen shows the catalog entry of the title you selected. The Copies section contains information for finding the physical item. Check the Call Number, Location, and Availability to know if a physical copy can be accessed. Many books, periodicals, and maps are available on the Digital Library and can be accessed viathe included link. Works that are copyright protected are not available for online viewing. The Film/Digital Notes contain a description of the microfilm or microfiche numbers. Some FamilySearch centers and affiliate libraries maintain collections of previousl"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.familysearch.org",
+      "source_title": "FamilySearch Catalog: Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern",
+      "source_type": "genealogy_catalog",
+      "source_url": "https://www.familysearch.org/en/search/catalog/312935",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:27:49.577Z",
+      "captured_at_local": "6/10/2026, 5:27:49 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "FAMILYSEARCH_CHURCH_BAPTISM",
+        "SAN_DIEGO_GENEALOGICAL_SOCIETY"
+      ],
+      "excerpt": "SKIP TO MAIN CONTENT Family Tree Search Memories Get Involved Activities Jeremiah7741 Records Full Text Images Family Tree Genealogies Catalog Books Wiki Catalog Search Results (16) TIPS AND RESOURCES PRINT CATALOG PRINT LIST (0) SEARCH Subject Search Terms Church records (16) Subject Search Terms Add to print list Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Davidson, Winifred, Guern, Ann MORE ADD Church records, 1876-1920 Author: Reorganized Church of Jesus Christ of Latter Day Saints. San Diego Branch (San Diego, California) MORE ADD Extracts of church records, 1775-1888 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Temple, Thomas Workman, d. 1972 MORE ADD The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer Author: First Presbyterian Church (San Diego, California), Rodefer, Virginia D., 1920-, San Diego Genealogical Society (El Cajon, California) MORE ADD Mission San Diego de Alcala California bautismos 1822-1855 Author: Temple, Thomas Workman, d. 1972 ADD Parish records (San Diego, Calif.), 1771-1904 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California) ADD Parish records (San Diego, Calif.), 1856-1970 Author: Catholic Church. St. Joseph (San Diego, California) ADD Record of members, 1919-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. Logan Heights Branch (California) MORE ADD Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. East San Diego Branch (California) MORE ADD Record of members, 1936-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD Record of members, 1936-1941; annual genealogical report, Form E, 1941- 1948 Author: Church of Jesus Christ of Latter-day Saints. North Park Branch (California) ADD Registro misional, 1776-1880 Author: Catholic Church. San Diego de Alcala Mission (San Diego,California) ADD San Diego Episcopal Church records/ researched and typed by members of San Diego Genealogical Society Author: Episcopal Church (San Diego, California), San Diego Genealogical Society (El Cajon, California) MORE ADD San Diego Episcopal Church records/ San Diego",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Catalog Search Results (16)",
+        "Search",
+        "Search By",
+        "Search For",
+        "Availability"
+      ],
+      "links": [
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/results?count=20&q.place=United%20States%2C%20California%2C%20San%20Diego%2C%20San%20Diego&q.subject=Church%20records&subjectsOpen=133492089-16#main",
+          "text": "SKIP TO MAIN CONTENT"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/",
+          "text": ""
+        },
+        {
+          "href": "https://www.familysearch.org/en/family-tree/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/pedigree/",
+          "text": "Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/recents/",
+          "text": "Recents"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=tree",
+          "text": "Find"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/following/",
+          "text": "Following"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/contributions/",
+          "text": "My Contributions"
+        },
+        {
+          "href": "https://www.familysearch.org/en/tree/private-people/",
+          "text": "Person List"
+        },
+        {
+          "href": "https://www.familysearch.org/en/groups/trees/",
+          "text": "Manage Trees"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/",
+          "text": "Records"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/full-text/",
+          "text": "Full Text"
+        },
+        {
+          "href": "https://www.familysearch.org/en/records/images/",
+          "text": "Images"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/tree?from=search/",
+          "text": "Family Tree"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/genealogies/",
+          "text": "Genealogies"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/",
+          "text": "Catalog"
+        },
+        {
+          "href": "https://www.familysearch.org/en/library/books/",
+          "text": "Books"
+        },
+        {
+          "href": "https://www.familysearch.org/en/wiki/Main_Page",
+          "text": "Research Wiki"
+        },
+        {
+          "href": "https://www.familysearch.org/en/cemeteries",
+          "text": "Cemeteries"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/newspapers",
+          "text": "Newspapers"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/memories/gallery/",
+          "text": "Gallery"
+        },
+        {
+          "href": "https://www.familysearch.org/en/home/portal/feed/",
+          "text": "Family Feed"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/",
+          "text": "Overview"
+        },
+        {
+          "href": "https://www.familysearch.org/en/getinvolved/my-opportunities/",
+          "text": "Opportunities"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "FamilySearch",
+        "church/baptism records",
+        "local religious history"
+      ],
+      "next_step_at_capture": "Good. Capture this page into the database. Then export/back up.",
+      "record_id": "m13_mq8rdpl5_4cwa8ruz",
+      "result_blocks": [
+        "Book of baptisms, San Diego Mission/ transcribed and translated from the original \"Libro de bautismos\" for San Diego Historical Society by Winifred Davidson and Ann Guern Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Davidson, Winifred, Guern, Ann MORE ADD",
+        "Church records, 1876-1920 Author: Reorganized Church of Jesus Christ of Latter Day Saints. San Diego Branch (San Diego, California) MORE ADD",
+        "Extracts of church records, 1775-1888 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California), Temple, Thomas Workman, d. 1972 MORE ADD",
+        "The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer Author: First Presbyterian Church (San Diego, California), Rodefer, Virginia D., 1920-, San Diego Genealogical Society (El Cajon, California) MORE ADD",
+        "The First Presbyterian Church : [San Diego, California]/ researched by Virginia Rodefer",
+        "Mission San Diego de Alcala California bautismos 1822-1855 Author: Temple, Thomas Workman, d. 1972 ADD",
+        "Mission San Diego de Alcala California bautismos 1822-1855",
+        "Parish records (San Diego, Calif.), 1771-1904 Author: Catholic Church. Mission San Diego de Alcalá (San Diego, California) ADD",
+        "Parish records (San Diego, Calif.), 1856-1970 Author: Catholic Church. St. Joseph (San Diego, California) ADD",
+        "Record of members, 1919-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD",
+        "Record of members, 1928-1941 Author: Church of Jesus Christ of Latter-day Saints. East San Diego Branch (California) MORE ADD",
+        "Record of members, 1936-1941 Author: Church of Jesus Christ of Latter-day Saints. San Diego Branch (California) ADD"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.familysearch.org",
+      "source_title": "Catalog Search Results for United States, California, San Diego, San Diego, Church records, 133492089-16",
+      "source_type": "genealogy_catalog",
+      "source_url": "https://www.familysearch.org/en/search/catalog/results?count=20&q.place=United%20States%2C%20California%2C%20San%20Diego%2C%20San%20Diego&q.subject=Church%20records&subjectsOpen=133492089-16",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:28:12.747Z",
+      "captured_at_local": "6/10/2026, 5:28:12 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "FAMILYSEARCH_CHURCH_BAPTISM",
+        "SAN_DIEGO_GENEALOGICAL_SOCIETY"
+      ],
+      "excerpt": "Skip to main content Accessibility help AI Mode All Forums Videos Images Shopping Short videos More Tools Search Results AI Overview To access church and baptismal records for genealogy in San Diego, you must use the The Roman Catholic Diocese of San Diego for modern Catholic records, or the FamilySearch Catalog for microfilmed historical mission registries. 1. Roman Catholic Diocese Archives The majority of sacramental records (baptisms, marriages, burials) in San Diego remain privately held by the Catholic Church. Modern and Parish Records: Sacramental records are strictly not open to public examination. To request a record, you must be the individual on the record or a verifiable family member. How to Request: You can submit an inquiry by completing the Request an Archive form on the official The Roman Catholic Diocese of San Diego website. 2. FamilySearch Historical & Mission Records For early Californian history and 19th-century ancestors, extensive parish and mission logs have been digitized and microfilmed. Mission San Diego de Alcala: The registry books dating back to 1771 are cataloged. You can explore transcribed and translated volumes such as the Book of baptisms, San Diego Mission. Parish Microfilms: General historical parish records spanning 1771–1904 are available for digital review in the Parish records (San Diego, Calif.), 1771-1904 collection. 3. Local In-Person Research San Diego FamilySearch Center: You can visit the local Welcome to the San Diego, California FamilySearch Center. The center provides free access to premium genealogy partner sites (like Ancestry.com and MyHeritage) and allows you to view restricted microfilms that are only available within the building. San Diego History Center: The San Diego History Center archives hold significant genealogical indices and collections (such as the San Diego Genealogical Society Collection), which often index early church events and pioneers. Further Exploration Learn more about the specific jurisdictions and available regional collections via the San Diego County, California Genealogy wiki page. Check additional digitized Catholic church films in the comprehensive California Church Records overview. If you would like to narrow down your search, please let me know: The time period / approximate birth year of your ancestor The specific denomination (e.g., Catholic, Episcopal) if known Whether you are looking for early Mission records or 20th-century parish records I can help identify exactl",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Search Results",
+        "Web results",
+        "Archives - Roman Catholic Diocese of San Diego",
+        "FamilySearch Catalog: Book of baptisms, San Diego Mission",
+        "San Diego Records",
+        "Parish records (San Diego, Calif.), 1771-1904",
+        "San Diego County CA Church Records",
+        "Free California Online Church Records",
+        "Genealogy",
+        "San Diego, California, Compiled Records From ...",
+        "Request an Archive - Roman Catholic Diocese of San Diego",
+        "Page Navigation",
+        "Footer Links"
+      ],
+      "links": [
+        {
+          "href": "https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3Dchurch%2Brecords%2Bgenealogy%2Bbaptismal%2Brecords%2BSan%2BDiego&ec=futura_srp_og_si_72236_p",
+          "text": ""
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&aep=1&ntc=1&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Q2J8OegQIEBAD",
+          "text": "AI Mode"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Qs6gLegQIFxAB",
+          "text": "Forums"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QtKgLegQIFhAB",
+          "text": "Videos"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QtKgLegQIFRAB",
+          "text": "Images"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&ved=1t:220175&ictx=111",
+          "text": "Shopping"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Qs6gLegQIExAB",
+          "text": "Short videos"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&q=church+records+genealogy+baptismal+records+San+Diego&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Q0pQJegQIURAB",
+          "text": "News"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&q=church+records+genealogy+baptismal+records+San+Diego&udm=36&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Q0pQJegQIUhAB",
+          "text": "Books"
+        },
+        {
+          "href": "https://www.google.com/search?sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&udm=web&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&q=church+records+genealogy+baptismal+records+San+Diego&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0Qs6gLegQIVBAB",
+          "text": "Web"
+        },
+        {
+          "href": "https://maps.google.com/maps?sca_esv=3b4cc2d9bc5e80fb&output=search&q=church+records+genealogy+baptismal+records+San+Diego&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpFZYo9qIX3pM4_jubAu4b8BLCVR2Ov2eBOoXNgto4-ToV0QqwXFSSpoeIN7O214NiaaEfAzi3EQmC7gTN_PIW5_8xtU4W4vXsQ8zdPlMDcCpzyOpUoJuy-MOLTEKblvH8AVCFMYDu0373ftuczkWbupe7pv5NVTTa86M4UZhMaHPJuBwItRalh9kBvh9ggto2rA_V0A&entry=mc&ved=1t:200715&ictx=111",
+          "text": "Maps"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego#",
+          "text": "Any time"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=qdr:h&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEAY",
+          "text": "Past hour"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=qdr:d&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEAc",
+          "text": "Past 24 hours"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=qdr:w&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEAg",
+          "text": "Past week"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=qdr:m&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEAk",
+          "text": "Past month"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=qdr:y&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEAo",
+          "text": "Past year"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego#",
+          "text": "All results"
+        },
+        {
+          "href": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego&sca_esv=3b4cc2d9bc5e80fb&sxsrf=ANbL-n6qR9gWe3ldYqqVStNkrDvstw-KFA:1781137689371&source=lnt&tbs=li:1&sa=X&ved=2ahUKEwixopX69v2UAxVyJEQIHbwHBR0QpwV6BAgFEBE",
+          "text": "Verbatim"
+        },
+        {
+          "href": "https://sdcatholic.org/archives/",
+          "text": "The Roman Catholic Diocese of San Diego"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/312935",
+          "text": "FamilySearch Catalog"
+        },
+        {
+          "href": "https://sdcatholic.org/archives/request-an-archive/",
+          "text": "Request an Archive"
+        },
+        {
+          "href": "https://www.familysearch.org/en/search/catalog/722482",
+          "text": "Parish records (San Diego, Calif.), 1771-1904"
+        },
+        {
+          "href": "https://www.familysearch.org/en/centers/san_diego_california",
+          "text": "Welcome to the San Diego, California FamilySearch Center"
+        },
+        {
+          "href": "https://sandiegohistory.org/",
+          "text": "San Diego History Center"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "Ancestry Library Edition",
+        "FamilySearch",
+        "church/baptism records",
+        "local religious history"
+      ],
+      "next_step_at_capture": "Good. Capture this page into the database. Then export/back up.",
+      "record_id": "m13_mq8re7gj_qad6wg71",
+      "result_blocks": [
+        "To access church and baptismal records for genealogy in San Diego, you must use the The Roman Catholic Diocese of San Diego for modern Catholic records, or the FamilySearch Catalog for microfilmed historical mission registries. 1. Roman Catholic Diocese Archives The majority of sacramental records (baptisms, marriages, burials) in San Diego remain privately held by the Catholic Church. Modern and Parish Records: Sacramental records are strictly not open to public examination. To request a record, you must be the individual on the record or a verifiable family member. How to Request: You can su",
+        "Modern and Parish Records: Sacramental records are strictly not open to public examination. To request a record, you must be the individual on the record or a verifiable family member.",
+        "How to Request: You can submit an inquiry by completing the Request an Archive form on the official The Roman Catholic Diocese of San Diego website.",
+        "Mission San Diego de Alcala: The registry books dating back to 1771 are cataloged. You can explore transcribed and translated volumes such as the Book of baptisms, San Diego Mission.",
+        "Parish Microfilms: General historical parish records spanning 1771–1904 are available for digital review in the Parish records (San Diego, Calif.), 1771-1904 collection.",
+        "San Diego FamilySearch Center: You can visit the local Welcome to the San Diego, California FamilySearch Center. The center provides free access to premium genealogy partner sites (like Ancestry.com and MyHeritage) and allows you to view restricted microfilms that are only available within the building.",
+        "San Diego History Center: The San Diego History Center archives hold significant genealogical indices and collections (such as the San Diego Genealogical Society Collection), which often index early church events and pioneers.",
+        "Learn more about the specific jurisdictions and available regional collections via the San Diego County, California Genealogy wiki page.",
+        "Check additional digitized Catholic church films in the comprehensive California Church Records overview.",
+        "Whether you are looking for early Mission records or 20th-century parish records",
+        "Request an Archive - Roman Catholic Diocese of San Diego Record being requested * Baptismal Record First Communion Record Confirmation Record Marriage Record Death Record Other. Name at t... The Roman Catholic Diocese of San Diego",
+        "Archives - The Roman Catholic Diocese of San Diego For privacy reasons, we do not release any information to genealogy research companies or to individuals conducting genealogical r... The Roman Catholic Diocese of San Diego"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.google.com",
+      "source_title": "church records genealogy baptismal records San Diego - Google Search",
+      "source_type": "genealogy_catalog",
+      "source_url": "https://www.google.com/search?q=church+records+genealogy+baptismal+records+San+Diego",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:28:19.925Z",
+      "captured_at_local": "6/10/2026, 5:28:19 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "SAN_DIEGO_GENEALOGICAL_SOCIETY"
+      ],
+      "excerpt": "Log in HOME CALIF PIONEER CERTIFICATE PROGRAM MEMBERSHIP CALENDAR GENEALOGY EDUCATION RESEARCH RESOURCES SUPPORT SDGS Home Research Resources San Diego Records RECORDS FOR SAN DIEGO COUNTY, CALIFORNIA San Diego County cemetery, census, church, hospital, land, mortuary, school census, voter registration records and numerous other records of interest and value to genealogists and family historians researching their San Diego County, California ancestry have been published in San Diego Leaves and Saplings published from 1973–2019 in 47 volumes. Many of the records published in the San Diego Leaves and Saplings issues are listed below by category with their corresponding volume and number. You can review the full Surname index of each volume at Indexes - Leaves & Samplings. As a member of SDGS you can read the full volumes of San Diego Leaves and Saplings in the Members Only section. Non-members can research San Diego Leaves and Saplings in libraries, archives and genealogical collections across the United States. Locally in San Diego County they can be found at the local library downtown and at the Carlsbad Library. They are also indexed in the Allen County Public Library's PERSI (PERiodical Source Index). BIBLE Records CEMETERY Records CENSUS Records CHURCH Records COURT Records FAMILY Records HOSPITAL Records INDEXES - Leaves & Saplings LAND Records MAPS MISCELLANEOUS Records MILITARY Records MORTUARY Records NEWSPAPER Records SCHOOL Records TAX Records VITAL Records VOTER Registration Index by Category of Record Vol. No. Bible Records Samuel Foss BARKER Family Bible 36 2 Theodore K. BRADLEY and Marietta C. SMITH Family Bible 36 4 William B. BRITTON and Lydia J. MOON Family Bible 36 3 BUTLER Family Record 35 3 Edwin CLARK and Matilda Louisa BUTLER Family Bible 36 1 Samuel CLARK Family Bible 35 4 COUTS Family Bible 23 2 Franklin V. CROUCH and Mary Emily \"Mollie\" MILLER Family Bible 35 3 DIEFENDORFF Family Bible 37 4 William Henry FISHER and Carrie May FISHER Family Bible FRY Family Bible Record 17 1 Harry M. MILLER and Gertrude M. SPARGUR Family Bible Robert E. MILLER Family Blble 35 2 Lorenzo Dow MOSHER and Mary L. FORBES Family Bible 37 2 POHL - WICKER - STARR Family Bible 23 3 Charles Lawrence REYNOLDS and Effie Griffin PRIOR Family Bible QUINN Family Bible 15 4 Lorenzo Dow ROWELL and Susan Hinks FREEMAN Family Bible 37 3 Silas STEVENS and Irene TRACY Family Bible 35 1 James W. STUARD and Amanda REED Family Bible John STUART and Suzanne FINLAY Family Bibl",
+      "extension_version": "1.4.0",
+      "headings": [
+        "RECORDS FOR SAN DIEGO COUNTY, CALIFORNIA"
+      ],
+      "links": [
+        {
+          "href": "https://casdgs.org/Genealogy-Education",
+          "text": "Genealogy Education"
+        },
+        {
+          "href": "https://casdgs.org/special-interest-groups",
+          "text": "Special Interest Groups"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records",
+          "text": "San Diego Records"
+        },
+        {
+          "href": "https://casdgs.org/Genealogy-Education",
+          "text": "GENEALOGY EDUCATION"
+        },
+        {
+          "href": "https://casdgs.org/special-interest-groups",
+          "text": ""
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records",
+          "text": ""
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#indexes",
+          "text": "San Diego Leaves and Saplings"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#indexes",
+          "text": "Indexes - Leaves & Samplings"
+        },
+        {
+          "href": "https://www.genealogycenter.info/persi/",
+          "text": "Allen County Public Library's PERSI"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#bible",
+          "text": "BIBLE Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#cemetery",
+          "text": "CEMETERY Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#census",
+          "text": "CENSUS Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#church",
+          "text": "CHURCH Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#court",
+          "text": "COURT Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#family",
+          "text": "FAMILY Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#hospital",
+          "text": "HOSPITAL Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#indexes",
+          "text": "INDEXES"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#land",
+          "text": "LAND Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#maps",
+          "text": "MAPS"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#misc",
+          "text": "MISCELLANEOUS Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#military",
+          "text": "MILITARY Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#mortuary",
+          "text": "MORTUARY Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#newspaper",
+          "text": "NEWSPAPER Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#school",
+          "text": "SCHOOL Records"
+        },
+        {
+          "href": "https://casdgs.org/San-Diego-Records#tax",
+          "text": "TAX Records"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "church/baptism records",
+        "local religious history"
+      ],
+      "next_step_at_capture": "Time is low. Capture the current useful page if relevant, export JSON/CSV, and continue at home.",
+      "record_id": "m13_mq8reczw_rsfopbo3",
+      "result_blocks": [
+        "Genealogy Education Monthly Programs Classes Special Interest Groups Event Photos Research Trips Blogs"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "casdgs.org",
+      "source_title": "San Diego Genealogical Society - San Diego Records",
+      "source_type": "webpage",
+      "source_url": "https://casdgs.org/San-Diego-Records",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    },
+    {
+      "can_read_page": true,
+      "captured_at_iso": "2026-06-11T00:28:36.992Z",
+      "captured_at_local": "6/10/2026, 5:28:36 PM",
+      "compatible_with": [
+        "research identity.researchlog.v1",
+        "future_extension_import"
+      ],
+      "error": "",
+      "evidence_flags": [
+        "SDPL_GENEALOGY"
+      ],
+      "excerpt": "Skip to main content Enable accessibility for low vision Open the accessibility menu Skip to main content City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Genealogy Master Index Indexes biographical listings in print dictionaries and encyclopedias covering millions of individuals, both living and deceased. Obituary Search All requests for an obituary search must be submitted via email to: speccoll@sandiego.gov. (More details) Special Collections Special Collections Overview California Collection Rare Book Room Genealogy Collection Special Collections Spotlight Videos Regular Hours Monday: 11:30 AM - 8:00 PM Tuesday: 11:30 AM - 8:00 PM Wednesday: 9:30 AM - 6:00 PM Thursday: 9:30 AM - 6:00 PM Friday: 9:30 AM - 6:00 PM Saturday: 9:30 AM - 6:00 PM Sunday: Closed Copyrighted © 2002-2026 City of San Diego. All rights reserved. Footer Menu Council Districts Council President Joe LaCava (District 1) Councilmember Jennifer Campbell (District 2) Councilmember Stephen Whitburn (District 3) Councilmember Henry Foster III (District 4) Councilmember Marni von Wilpert (District 5) Council President Pro Tem Kent Lee (District 6) Councilmember Raul Campillo (District 7) Councilmember Vivian Moreno (District 8) Councilmember Sean Elo-Rivera (District 9) City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department Government Agencies County of San Diego State of California Federal Government Disclaimers Privacy Policy Accessibility Language Translation Contact the Cit",
+      "extension_version": "1.4.0",
+      "headings": [
+        "Mobile main navigation",
+        "LeisureExplore | Play | Events",
+        "Parks",
+        "Outdoors",
+        "Resident ResourcesPay Now | Parking | Help",
+        "Neighborhoods",
+        "Recreational Activities",
+        "Street Maintenance",
+        "Doing BusinessFix | Plan | Build",
+        "Plan",
+        "Fix",
+        "Build",
+        "LibraryLearn | Connect | Discover",
+        "Programs & Events",
+        "Services",
+        "Kids & Teens",
+        "eCollection",
+        "Public SafetyPolice | Fire | Lifeguards",
+        "Police",
+        "Fire-Rescue",
+        "Lifeguards",
+        "City HallCity Officials | Departments",
+        "City Officials",
+        "City Government",
+        "Leisure"
+      ],
+      "links": [
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#main-content",
+          "text": "Skip to main content"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LeisureExplore | Play | Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Resident ResourcesPay Now | Parking | Help"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Doing BusinessFix | Plan | Build"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "LibraryLearn | Connect | Discover"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events/onebook",
+          "text": "One Book, One San Diego"
+        },
+        {
+          "href": "https://sandiego.events.mylibrary.digital/",
+          "text": "Event Calendar"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/news-events",
+          "text": "More Programs & Events"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/finesfees",
+          "text": "Fines & Fees"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/renewhold",
+          "text": "Renewals & Holds"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services",
+          "text": "More Services"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/hwcenter",
+          "text": "Homework Help Center"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens/parentsteachers",
+          "text": "Parents & Teachers"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/kidsandteens",
+          "text": "More Kids & Teens"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/elibrary",
+          "text": "eBooks"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library",
+          "text": "Library Website"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/services/lending/librarycard",
+          "text": "Apply for a Library Card"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Public SafetyPolice | Fire | Lifeguards"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "City HallCity Officials | Departments"
+        },
+        {
+          "href": "https://www.sandiego.gov/boards-and-commissions",
+          "text": "Boards & Commissions"
+        },
+        {
+          "href": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection#",
+          "text": "Translate"
+        },
+        {
+          "href": "https://www.sandiego.gov/specialevents-filming",
+          "text": "Special Events & Filming"
+        },
+        {
+          "href": "https://www.sandiego.gov/environmental-services/collection/schedule",
+          "text": "View Trash Collection Schedule"
+        }
+      ],
+      "location_label": "a local library or research location",
+      "manual_note": "",
+      "matched_keywords": [
+        "SDPL genealogy",
+        "Ancestry Library Edition"
+      ],
+      "next_step_at_capture": "Good. Capture this SDPL page into the database. Then capture FamilySearch church/baptism evidence if time allows.",
+      "record_id": "m13_mq8req66_7yvkfnuf",
+      "result_blocks": [
+        "Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research families by geographic locations, family names, or a more topic-specific search; such as heraldry, transport registries, regional histories, and census records. Begin Your Search Ancestry.com Library patrons have free use of the library’s subscription to Ancestry.com (Accessible only at SDPL locations). Biography & Geneal",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility HOME LEISURE RESIDENT RESOURCES DOING BUSINESS LIBRARY PUBLIC SAFETY CITY HALL Public Library Public Library Home About the Library Services eLibrary Programs & Events Central Library Library Locations Kids & Teens IDEA Labs Genealogy Collection SDPL’s Genealogy Collection consists of over 10,000 book, a thousand periodical titles, as well as electronic access to databases such as Ancestry.com, and microfilm access to the obituaries of the San Diego Union dating back to 1865. Patrons can research familie",
+        "City of San Diego Official Website Clear 70° CONNECT with the City Translate Accessibility",
+        "LibraryLearn | Connect | Discover Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website Browse the Catalog Apply for a Library Card Employment Opportunities",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events Services Fines & Fees Renewals & Holds More Services Kids & Teens Homework Help Center Parents & Teachers More Kids & Teens eCollection eBooks Digital Magazines Library Website",
+        "Programs & Events One Book, One San Diego Event Calendar More Programs & Events",
+        "City HallCity Officials | Departments City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall Council Meetings FY27 Draft Budget Council Committees The People's Business",
+        "City Officials Mayor Todd Gloria Councilmembers City Attorney City Auditor City Clerk Independent Budget Analyst City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart More City Hall",
+        "City Government Departments Programs & Initiatives Boards & Commissions City Organization Chart",
+        "Leisure With its great weather, miles of sandy beaches, and major attractions, San Diego is known worldwide as one of the best tourist destinations and a great place for residents to relax year round.",
+        "Library The San Diego Public Library is a popular destination that connects our diverse community to free educational and cultural resources that will enrich their lives.",
+        "City Officials & Independent Offices Office of Mayor Todd Gloria City Attorney Heather Ferbert Ethics Commission Office of the City Auditor Office of the City Clerk Office of the Independent Budget Analyst Personnel Department"
+      ],
+      "schema": "research identity.researchlog.v1",
+      "session_id": "public_seed_2026_06_11",
+      "source_domain": "www.sandiego.gov",
+      "source_title": "Genealogy Collection | City of San Diego Official Website",
+      "source_type": "official_library_page",
+      "source_url": "https://www.sandiego.gov/public-library/central-library/special-collections/genealogy-collection",
+      "sync_status": "local_only",
+      "task_id": "research identity_condition_A_physical_san_diego_location"
+    }
+  ],
+  "public_release_note": "Seed records are stored locally in the extension and can be updated by the user. Public UI removes location-specific Clairemont wording and library address details."
+}

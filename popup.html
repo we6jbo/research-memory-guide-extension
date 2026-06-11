@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Research Memory Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Research Memory Guide</h1>
+  <div id="timeBox">Loading local time...</div>
+  <div class="notice">
+    A local-first research helper for genealogy, baptism/church records, religious memory, cultural identity, and human-centered belief research.
+    <a id="privacyLink" href="https://j03.page/privacy-policy-for-membership13-research-log/" target="_blank">Privacy policy</a>
+  </div>
+
+  <div class="row">
+    <label for="mode">Mode</label>
+    <select id="mode">
+      <option>Smart</option>
+      <option>Manual</option>
+      <option>Advanced</option>
+      <option>Developer</option>
+    </select>
+  </div>
+
+  <div id="smartPanel" class="panel">
+    <h2>Smart status</h2>
+    <div id="autoStatus">Open a research page, then use Refresh status.</div>
+    <button id="refreshStatus">Refresh status</button>
+    <button id="showOverlay">Show/pin lower-right helper</button>
+    <button id="hideOverlay">Hide lower-right helper</button>
+    <button id="saveCurrentPage">Save current page to JSON</button>
+    <button id="addSite">Add this site to JSON</button>
+  </div>
+
+  <div id="manualPanel" class="panel hidden">
+    <h2>Manual sharing</h2>
+    <label>How should the copied prompt address the language model?</label>
+    <input id="lmAddress" placeholder="Hello AI assistant," />
+    <button id="copyShare">Copy text to share</button>
+    <textarea id="sharePreview" readonly></textarea>
+  </div>
+
+  <div id="advancedPanel" class="panel hidden">
+    <h2>Advanced settings</h2>
+    <label><input type="checkbox" id="enabled"> Enable extension</label>
+    <label><input type="checkbox" id="showSmartPopup"> Show lower-right helper by default</label>
+    <label><input type="checkbox" id="helperPinned"> Keep helper open unless I hide it</label>
+    <label><input type="checkbox" id="autoSaveStatus"> Auto-save status locally</label>
+    <label><input type="checkbox" id="autoSaveJson"> Auto-save JSON records</label>
+    <label>Auto-save every <input id="autoSaveJsonMinutes" type="number" min="1" max="1440" step="1"> minutes</label>
+    <h3>Countdown timers</h3>
+    <div class="gridDays">
+      <label>Mon <input id="monday" type="time"></label>
+      <label>Tue <input id="tuesday" type="time"></label>
+      <label>Wed <input id="wednesday" type="time"></label>
+      <label>Thu <input id="thursday" type="time"></label>
+      <label>Fri <input id="friday" type="time"></label>
+      <label>Sat <input id="saturday" type="time"></label>
+      <label>Sun <input id="sunday" type="time"></label>
+    </div>
+    <h3>User memory</h3>
+    <input id="userName" placeholder="Your name, optional">
+    <input id="userContact" placeholder="How you can be contacted, optional">
+    <button id="saveSettings">Save settings and layout</button>
+    <button id="refreshSlow">Slow refresh status from current page</button>
+    <h3>Editable JSON records</h3>
+    <textarea id="jsonEditor"></textarea>
+    <button id="saveJson">Save JSON records</button>
+    <button id="exportJson">Copy JSON export</button>
+  </div>
+
+  <div id="developerPanel" class="panel hidden">
+    <h2>Developer</h2>
+    <div class="notice small">
+      Created by Jeremiah O'Neal aka we6jbo. Made on 6/11/2026 to help people turn research pages into local, explainable JSON evidence logs.
+      Public source target: https://github.com/we6jbo/research-memory-guide-extension
+    </div>
+    <button id="copyDevPlan">Copy future expansion notes</button>
+    <textarea id="devNotes" readonly></textarea>
+  </div>
+
+  <h2>Research checkpoint</h2>
+  <div id="scoreBox">Completion estimate: unknown</div>
+  <button id="doneBtn">Check if task is done</button>
+  <div id="status"></div>
+
+  <h2>About</h2>
+  <button id="aboutBtn">Show about</button>
+  <div id="aboutBox" class="hidden small"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
